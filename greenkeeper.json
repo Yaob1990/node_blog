@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Blog-express/package.json",
+        "Blog-node/package.json",
+        "mysql/package.json"
+      ]
+    }
+  }
+}
