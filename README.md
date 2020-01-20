@@ -1,4 +1,7 @@
 # node_blog
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Yaob1990/node_blog.svg)](https://greenkeeper.io/)
+
 慕课网Node.js从零开发Web Server博客项目项目练习源码
 
 代码基本只有后端，前端以后可能会补充。
